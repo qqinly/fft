@@ -344,7 +344,7 @@ FFT 函数（fft、fft2、fftn、ifft、ifft2、ifftn）基于一个称为 FFTW 
 
 ### C/C++ 代码生成
 
-### 使用 MATLAB® Coder^™^ 生成 C 代码和 C++ 代码。
+### 使用 MATLAB® Coder™ 生成 C 代码和 C++ 代码。
 
 用法说明和限制：
 
